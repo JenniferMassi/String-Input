@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Input\bin\Debug\net6.0\Input.exe
+C:\Users\Jenni\source\repos\Input\bin\Debug\net6.0\Input.deps.json
+C:\Users\Jenni\source\repos\Input\bin\Debug\net6.0\Input.runtimeconfig.json
+C:\Users\Jenni\source\repos\Input\bin\Debug\net6.0\Input.dll
+C:\Users\Jenni\source\repos\Input\bin\Debug\net6.0\Input.pdb
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.dll
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\refint\Input.dll
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.pdb
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\Input.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Input\obj\Debug\net6.0\ref\Input.dll
